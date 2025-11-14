@@ -47,7 +47,7 @@ JWT_SECRET=your_super_secret_jwt_key_change_this_in_production
 JWT_EXPIRE=7d
 
 # CORS Configuration
-CORS_ORIGIN=http://localhost:3000
+CORS_ORIGIN=http://localhost:4000
 ```
 
 4. **Create PostgreSQL database**:
@@ -350,4 +350,6 @@ Created for the Dating App project
 
 For issues and questions, please open an issue on the repository.
 
+# SoulSync-backend
+# SoulSync-backend
 # SoulSync-backend
